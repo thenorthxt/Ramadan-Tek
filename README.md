@@ -5,7 +5,7 @@
 
 CA: 
 
-X: 
+X: https://x.com/RamadanTek
 
 Ramadan Tek is a time-bound economic framework inspired by the principles of Ramadan:
 
