@@ -1,5 +1,12 @@
 # Ramadan-Tek
 
+![RAMADANI](https://github.com/user-attachments/assets/86b4e05a-e5dd-4d76-86ab-cff37ebf1260)
+
+
+CA: 
+
+X: 
+
 Ramadan Tek is a time-bound economic framework inspired by the principles of Ramadan:
 
 Restraint.  
